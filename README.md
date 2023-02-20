@@ -1,1 +1,1 @@
-#Hate Speech Detection Research
+Hate Speech Detection Research
